@@ -1,0 +1,115 @@
+
+\usepackage[colorlinks,linkcolor=black,citecolor=black]{hyperref}
+\usepackage{setspace}	\onehalfspacing
+\usepackage{graphicx,fancyhdr}
+\usepackage{amssymb,amsmath}
+\usepackage[mathscr]{euscript}
+
+\usepackage{./base/sty/algorithm}
+\usepackage{./base/sty/algorithmicx}
+\usepackage[noend]{./base/sty/algpseudocode}
+
+\usepackage{xepersian}
+
+\usepackage{newfloat}
+
+
+% -------------------- Numberings --------------------
+
+\makeatletter
+\renewcommand \thesection {\@arabic\c@section-\@arabic\c@chapter}      
+\renewcommand \thetable {\@arabic\c@table-\@arabic\c@chapter}
+\renewcommand \thefigure {\@arabic\c@figure-\@arabic\c@chapter}
+\makeatother
+
+\renewcommand{\labelitemi}{-}
+
+
+% -------------------- Environments --------------------
+
+\newtheorem{قضیه}{قضیه‌ی}
+\newtheorem{لم}{لم}
+\newtheorem{مشاهده}{مشاهده‌ی}
+\newtheorem{مسئله}{مسئله‌ی}
+\newtheorem{تعریف}{تعریف}
+
+\newenvironment{اثبات}
+	{\begin{trivlist}\item[\hskip\labelsep{\em اثبات.}]}
+	{\leavevmode\unskip\nobreak\quad\hspace*{\fill}{\ensuremath{{\square}}}\end{trivlist}}
+
+\newenvironment{alg}[2]
+	{\begin{latin}\settextfont[Scale=1.0]{Times New Roman}
+	\begin{algorithm}[t]\caption{#1}\label{algo:#2}\vspace{0.2em}\begin{algorithmic}[1]}
+	{\end{algorithmic}\vspace{0.2em}\end{algorithm}\end{latin}}
+
+
+% -------------------- Floatings --------------------
+
+%\DeclareFloatingEnvironment[listname=فهرست شکل‌ها, name=شکل, placement=htbp]{myfigure}
+%
+%\DeclareFloatingEnvironment[listname=فهرست جدول‌ها, name=جدول, placement=htbp]{mytable}
+%
+%\DeclareFloatingEnvironment[listname=فهرست نمودار‌ها, name=نمودار, placement=htbp]{mydiagram}
+
+\renewcommand{\listfigurename}{فهرست شکل‌ها}
+
+\renewcommand{\listtablename}{فهرست جدول‌ها}
+
+%\renewcommand{\bibname}{منابع}
+
+\newcommand{\شکل‌پی‌دی‌اف}
+[3]
+{\begin{figure}[t] \centering \includegraphics[width=#1cm]{resources/figures/#3.pdf} \caption{#2.} \label{fig:#3} \end{figure}}
+
+\newcommand{\شکل‌پی‌ان‌جی}
+[3]
+{\begin{figure}[t] \centering \includegraphics[width=#1cm]{resources/figures/#3.png} \caption{#2.} \label{fig:#3} \end{figure}}
+
+
+% -------------------- Commands --------------------
+
+\defpersianfont\sayeh[Scale=1.1]{XB Kayhan Pook}
+
+\deflatinfont \EnglishAbstractFont[Scale=1.25]{Times New Roman}
+
+\newcommand{\ceil}[1]{{\left\lceil{#1}\right\rceil}}
+\newcommand{\floor}[1]{{\left\lfloor{#1}\right\rfloor}}
+\newcommand{\prob}[1]{{\mbox{\tt Pr}[#1]}}
+\newcommand{\set}[1]{{\{ #1 \}}}
+
+\newcommand{\کج}{\emph}
+\newcommand{\مهم}{\textbf}
+\newcommand{\خیلی‌مهم}[1]{\emph{\textbf{#1}}}
+
+\newcommand{\زیرنوشت}[1]{\footnote{\lr{#1}}}
+
+\newcommand{\پی}[1]{$P$}
+\newcommand{\ان‌پی}[1]{$NP$}
+\newcommand{\سخت}[1]{$NP$-سخت}
+\newcommand{\کامل}[1]{$NP$-کامل}
+
+\newcommand{\بلی}[1]{\کج{بلی}}
+\newcommand{\خیر}[1]{\کج{خیر}}
+
+% My own commands:\footnote{You may remove them.}
+
+\newcommand{\MyDash}{\mbox{-}}
+
+\newcommand{\decision}[1]{
+مسئله‌ی~\ref{prob:k-REP} به ازای $k = #1$
+}
+
+\newcommand{\SAT}[1]{
+$#1$-ارضا‌پذیری
+}
+
+\renewcommand{\baselinestretch}{1.5}
+
+
+% -------------------- Text Format --------------------
+
+\setlength{\parskip}{0.5em}
+
+\linespread{1.75}
+
+\usepackage[margin=4cm]{geometry}
