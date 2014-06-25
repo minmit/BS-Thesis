@@ -1,4 +1,4 @@
-<!1,2014062506:18:05>
+<!1,2014062506:19:08>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
@@ -6,7 +6,8 @@ p, li { white-space: pre-wrap; }
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فصل{کارهای پیشین}</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
-<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در این فصل، دو الگوریتم تقریبی برای مسئله‌ی راه فرار مستطیل‌ها را بررسی خواهیم‌کرد. از آن‌جایی که الگوریتم‌های تقریبی این فصل مبتنی بر برنامه‌ریزی صحیح و برنامه‌ریزی خطی است، ابتدا یک برنامه‌ریزی صحیح برای مسئله ارائه می‌کنیم.</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در این فصل، دو الگوریتم تقریبی برای مسئله‌ی راه فرار مستطیل‌ها را بررسی خواهیم‌کرد. از آن‌جایی که الگوریتم‌های تقریبی این فصل مبتنی بر برنامه‌ریزی صحیح و برنامه‌ریزی خطی است، ابتدا یک برنامه‌ریزی صحیح برای مسئله ارائه می‌کنیم.‎‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎من دارم اینو عوض می کنم</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">پیش از ارائه‌ی برنامه‌ریزی صحیح معادل با مسئله‎‌ی~\ref{prob:REP}،‎ ابتدا فرض کنید همه‌ی اضلاع مستطیل‌ها را از دو طرف گسترش دهیم تا اضلاع قاب را قطع کنند. به این ترتیب، قاب به شکل مشبک در خواهد آمد. شکل‎~\ref{fig:grid}‎ را ببینید. به سادگی می‌توان دید که مستقل از چگونگی فرار مستطیل‌ها، چگالی همه‌ی نقاط درون یک ‎\کج{سلول}‎ از این شبکه با هم برابر است، پس به جای چگالی نقاط قاب، می‌توان چگالی را به یک سلول نسبت داد. از سوی دیگر، بدیهی است که تعداد سلول‌ها از ‎$O(n ^ 2)$‎ خواهد بود. </p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
