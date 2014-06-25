@@ -1,10 +1,20 @@
+<<<<<<< HEAD
 <!1,2014060904:26:41>
+=======
+<!1,2014060916:22:53>
+>>>>>>> 24c76bdf0ca4a0e7317e64137142e08c78757ad7
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
 </style></head><body>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<<<<<<< HEAD
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\فصل{مقدمات}‎</p>
+=======
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فصل{مقدمات}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">این جمله توسط مینا اضافه شده است.</p>
+>>>>>>> 24c76bdf0ca4a0e7317e64137142e08c78757ad7
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در این بخش، به معرفی برخی از مفاهیمی می‌پردازیم که در این رساله استفاده شده‌اند.</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
@@ -33,6 +43,7 @@ p, li { white-space: pre-wrap; }
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">از آن‌جایی که بخشی از نتایج این رساله، بر پایه‌ی الگوریتم‌های تصادفی\زیرنوشت‎{Randomized Algorithms}‎ و نامساوی‌های احتمالاتی به دست آمده‌اند، به بیان چند تعریف پایه و سپس قضایای مورد استفاده می‌پردازیم.</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<<<<<<< HEAD
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\شروع{فقرات}‎</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فقره ‎\‎مهم{فرایند تصادفی}\زیرنوشت‎{Stochastic Process}‎:</p>
@@ -48,6 +59,23 @@ p, li { white-space: pre-wrap; }
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">یک متغیر تصادفی که برد آن ‎$\{0‎, ‎1\}$‎ است (یک زیر‌مجموعه از فضای نمونه را به ‎$1$‎ و باقی را به ‎$0$‎ می‌برد)، یک متغیر تصادفی شناسه است. به بیانی دیگر، می‌توان گفت که ‎$1$‎ بودن یک متغیر تصادفی شناسه معادل با اتفاق افتادن عضوی از زیر‌مجموعه‌ی مورد نظر است.</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فقره ‎\‎مهم{امید ریاضی}\زیرنوشت‎{Expected Value}‎:</p>
+=======
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎شروع{فقرات}</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فقره ‎\‎مهم{فرایند تصادفی}\زیرنوشت‎{Stochastic Process}:‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">به هر فرایندی که نتیجه آن نه به صورت قطعی که به صورت احتمالاتی مشخص می‌شود، فرایند تصادفی گفته می شود. به عنوان مثال، پرتاب یک سکه، یک فرایند تصادفی است؛ چراکه نتیجه‌ی آن به صورت احتمالاتی شیر یا خط است. </p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فقره ‎\‎مهم{فضای نمونه}\زیرنوشت‎{Sample Space}:‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">به مجموعه‌ی نتیجه‌هایی که یک فرایند تصادفی می‌تواند اتخاذ کند، فضای نمونه‌ی آن فرایند تصادفی گفته می‌شود. به عنوان مثال، فضای نمونه‌ی فرایند تصادفی پرتاب سکه، مجموعه‌ی \{شیر، خط‎\}‎ است.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فقره ‎\‎مهم{متغیر تصادفی}\زیرنوشت‎{Random Variable}:‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">تابعی از فضای نمونه‌ی یک فرایند تصادفی به مجموعه‌ی اعداد حقیقی، یک متغیر تصادفی است. به عنوان مثال، متغیر تصادفی ‎$x_i$‎ را می‌توان معادل با شیر آمدن سکه پس از پرتاب ‎$i$‎م  تعریف کرد که در صورت شیر آمدن سکه، مقدار ‎$1$‎ و در غیر این صورت، مقدار ‎$0$‎ می‌گیرد. در این رساله، برد همه‌ی متغیر‌های تصادفی، زیر‌مجموعه‌ای متناهی از مجموعه‌ی اعداد صحیح است.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فقره ‎\‎مهم{متغیر تصادفی شناسه}\زیرنوشت‎{Indicator Random Variable}:‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">یک متغیر تصادفی که برد آن ‎$\{0‎, ‎1\}$‎ است (یک زیر‌مجموعه از فضای نمونه را به ‎$1$‎ و باقی را به ‎$0$‎ می‌برد)، یک متغیر تصادفی شناسه است. به بیانی دیگر، می‌توان گفت که ‎$1$‎ بودن یک متغیر تصادفی شناسه معادل با اتفاق افتادن عضوی از زیر‌مجموعه‌ی مورد نظر است.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فقره ‎\‎مهم{امید ریاضی}\زیرنوشت‎{Expected Value}:‎</p>
+>>>>>>> 24c76bdf0ca4a0e7317e64137142e08c78757ad7
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">امید ریاضی یک متغیر تصادفی که برد آن، مجموعه‌ی متناهی ‎$R$‎ است، به صورت زیر تعریف می‌شود:</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎$$E[X] = \Sigma_{x \in R} P(X=x) \times x$$‎</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
@@ -62,7 +90,11 @@ p, li { white-space: pre-wrap; }
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">هم‌چنین ‎$\sigma(X)$‎ را برابر با ‎$\sqrt{var(X)}$‎ تعریف می‌کنند و آن را ‎\‎کج{انحراف معیار}\زیرنوشت‎{Standard Deviation}‎ متغیر تصادفی ‎$X$‎ می‌نامند.</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<<<<<<< HEAD
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\پایان{فقرات}‎</p>
+=======
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎پایان{فقرات}</p>
+>>>>>>> 24c76bdf0ca4a0e7317e64137142e08c78757ad7
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">%</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در ادامه به چند قضیه‌ی مهم و اساسی احتمالاتی اشاره می‌کنیم:</p>
@@ -74,7 +106,11 @@ p, li { white-space: pre-wrap; }
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎$$E[c X] = c E [X]$$‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎$$E[X‎ + ‎Y] = E[X]‎ + ‎E[Y]$$‎</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<<<<<<< HEAD
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\پایان{قضیه}‎</p>
+=======
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎پایان{قضیه}</p>
+>>>>>>> 24c76bdf0ca4a0e7317e64137142e08c78757ad7
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">لازم به یادآوری است که تساوی‌های قضیه‌ی‎~\ref{theorem:expected-value}‎ به ازای هر دو متغیر تصادفی ‎$X$‎ و ‎$Y$‎ برقرار است؛ چه مستقل باشند و چه نباشند.</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
@@ -82,6 +118,7 @@ p, li { white-space: pre-wrap; }
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در این قضیه، چند نامساوی احتمالاتی معروف که در تحلیل الگوریتم‌های احتمالی کاربرد دارند، بیان می‌شوند.</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<<<<<<< HEAD
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\شروع{فقرات}‎</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فقره اگر ‎$X = \set{x_1‎, ‎\ldots‎, ‎x_k}$‎ مجموعه‌ای از متغیر‌های تصادفی باشد که برد همه‌ی آن‌ها ‎$\set{0‎, ‎1}$‎ است، احتمال آن‌که مقدار حد‌اقل یک ‎$x_i \in X$‎ برابر ‎$1$‎ شود، حد‌اکثر ‎$\Sigma_{x_i \in X} P(x_i = 1)$‎ است. دقت کنید که ‎$\Sigma_{x_i \in X} P(x_i = 1)$‎، مجموع احتمال ‎$1$‎ شدن این متغیر‌هاست.</p>
@@ -99,6 +136,25 @@ p, li { white-space: pre-wrap; }
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">که در آن ‎$\sigma(X) = \sqrt{var(X)}$‎.</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فقره ‎\‎مهم{نامساوی چرنوف}\زیرنوشت‎{Chernoff Inequality}‎:</p>
+=======
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎شروع{فقرات}</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فقره اگر ‎$X = \set{x_1‎, ‎\ldots‎, ‎x_k}$‎ مجموعه‌ای از متغیر‌های تصادفی باشد که برد همه‌ی آن‌ها ‎$\set{0‎, ‎1}$‎ است، احتمال آن‌که مقدار حد‌اقل یک ‎$x_i \in X$‎ برابر ‎$1$‎ شود، حد‌اکثر ‎$\Sigma_{x_i \in X} P(x_i = 1)$‎ است. دقت کنید که ‎$\Sigma_{x_i \in X} P(x_i = 1)$‎، مجموع احتمال ‎$1$‎ شدن این متغیر‌هاست.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فقره ‎\‎مهم{نامساوی مارکوف}\زیرنوشت‎{Markov Inequality}:‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">اگر برد متغیر تصادفی ‎$X$‎، زیر‌مجموعه‌ای از اعداد حقیقی نامنفی باشد، آن‌گاه به ازای هر ‎$a &gt; 0$‎، داریم:</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎$$P(X \geq a) \leq {{E[X]} \over {a}}$$‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">یا به طور معادل، می‌توان نوشت به ازای هر ‎$c &gt; 0$:‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎$$P(X \geq c E[X]) \leq {{1} \over {c}}$$‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">به بیان دیگر، احتمال آن‌که مقدار ‎$X$‎ از ‎$c$‎ برابر مقدار امید ریاضی بیش‌تر شود، حد‌اکثر ‎${1} \over {c}$‎ است.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فقره ‎\‎مهم{نامساوی چبیچو}\زیرنوشت‎{Chebyshev Inequality}:‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">برای متغیر تصادفی ‎$X$‎ با امید ریاضی و واریانس متناهی، به ازای هر ‎$c &gt; 0$‎ داریم:</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎$$P(|X‎ - ‎E[X]| \geq c \sigma(X)) \leq {{1} \over {c ^ 2}}$$‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">که در آن ‎$\sigma(X) = \sqrt{var(X)}$.‎</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فقره ‎\‎مهم{نامساوی چرنوف}\زیرنوشت‎{Chernoff Inequality}:‎</p>
+>>>>>>> 24c76bdf0ca4a0e7317e64137142e08c78757ad7
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">اگر ‎$x_1‎, ‎\ldots‎, ‎x_n$‎</p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">متغیرهای تصادفی مستقل از هم با دامنه‌ی ‎$\set{0‎, ‎1}$‎  باشند و متغیر تصادفی ‎$X$‎ به صورت </p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎$X = \Sigma_{i = 1}^n x_i$‎</p>
@@ -108,9 +164,15 @@ p, li { white-space: pre-wrap; }
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">هم چنین در ادامه‌ی این نامساوی، داریم:</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎$$(\frac{e^{\epsilon}}{(1+\epsilon)^{(1+\epsilon)}})^{E[X]} \leq e^{-{E[X]}\epsilon^2/3}$$‎</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<<<<<<< HEAD
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\پایان{فقرات}‎</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\پایان{قضیه}‎</p>
+=======
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎پایان{فقرات}</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎پایان{قضیه}</p>
+>>>>>>> 24c76bdf0ca4a0e7317e64137142e08c78757ad7
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎قسمت{برنامه‌ریزی خطی}</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
@@ -138,13 +200,22 @@ p, li { white-space: pre-wrap; }
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎قسمت{برنامه‌ریزی صحیح}</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<<<<<<< HEAD
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">برنامه‌ریزی صحیح\زیرنوشت‎{Integer Programming (IP)}‎ یک برنامه‌ریزی خطی است که در آن، دامنه‌ی متغیر‌ها محدود به اعداد صحیح است. هر‌چند برنامه‌ریزی‌ خطی در زمان چند‌جمله‌ای قابل حل است، ولی می‌توان نشان داد که مسئله‌ی حل برنامه‌ریزی صحیح یک مسئله‌ی ‎\سخت{}‎ است. گفتنی است یک حالت خاص از مسئله‌ی برنامه‌ریزی صحیح که در آن دامنه‌ی متغیر‌ها تنها مجموعه‌ی دو عضوی ‎$\set{0‎, ‎1}$‎ است، یکی از ‎21‎ مسئله‌ای است که کارپ به عنوان مسئله‌های ‎\سخت{}‎ معرفی کرده‎‌است~\cite{Karp}.‎</p>
+=======
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">برنامه‌ریزی صحیح\زیرنوشت‎{Integer Programming (IP)}‎ یک برنامه‌ریزی خطی است که در آن، دامنه‌ی متغیر‌ها محدود به اعداد صحیح است. هر‌چند برنامه‌ریزی‌ خطی در زمان چند‌جمله‌ای قابل حل است، ولی می‌توان نشان داد که مسئله‌ی حل برنامه‌ریزی صحیح یک مسئله‌ی ‎\سخت{}‎ است. گفتنی است یک حالت خاص از مسئله‌ی برنامه‌ریزی صحیح که در آن دامنه‌ی متغیر‌ها تنها مجموعه‌ی دو عضوی ‎$\set{0‎, ‎1}$‎ است، یکی از ‎21‎ مسئله‌ای است که کارپ به عنوان مسئله‌های ‎\سخت{}‎ معرفی کرده‎‌است~\cite{Karp}.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎</p>
+>>>>>>> 24c76bdf0ca4a0e7317e64137142e08c78757ad7
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎قسمت{الگوریتم تقریبی بر پایه‌ی برنامه‌ریزی خطی}</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">برای بسیاری از مسئله‌های کمینه‌سازی هزینه، می‌توان یک برنامه‌ریزی صحیح معادل نوشت که دامنه‌ی متغیر‌های آن ‎$\set{0‎, ‎1}$‎ است، ولی همان گونه که اشاره شد، با فرض ‎$NP \neq P$‎، الگوریتم کارآیی برای حل برنامه‌ریزی صحیح وجود ندارد تا با کمک آن، مسئله‌ی بهینه‌سازی مورد نظر نیز حل شود. در چنین مواردی، یک راهکار رایج، این است که برنامه‌ریزی صحیح متناظر با مسئله‌ی مورد نظر به یک برنامه‌ریزی خطی با همان محدودیت‌ها تبدیل گردد و حل شود. بدیهی است که در برنامه‌ریزی خطی متناظر، دامنه‌ی متغیر‌ها به جای مجموعه‌ی دوعضوی ‎$\set{0‎, ‎1}$‎، مجموعه‌ی همه‌ی اعداد گویای بازه‌ی ‎$[0‎, ‎1]$‎ خواهد بود. فرض کنید جواب این برنامه‌ریزی خطی را بردار ‎$OPT_{LP}$‎ بنامیم. یک ایده برای به دست آوردن الگوریتمی تقریبی آن است که پس از به دست آوردن ‎$OPT_{LP}$‎، با گرد کردن مؤلفه‌های بردار ‎$OPT_{LP}$‎ به یکی از دو روش زیر، پاسخی تقریبی برای برنامه‌ریزی صحیح مورد نظر به دست آید.</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<<<<<<< HEAD
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\شروع{فقرات}‎</p>
+=======
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎شروع{فقرات}</p>
+>>>>>>> 24c76bdf0ca4a0e7317e64137142e08c78757ad7
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فقره ‎\‎مهم{گرد کردن قطعی}</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
@@ -154,5 +225,9 @@ p, li { white-space: pre-wrap; }
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در این روش، مقدار هر متغیر، نه به صورت قطعی بلکه با احتمالی به ‎$1$‎ گرد می‌شود که این احتمال، خود تابعی است از مقدار همان متغیر در ‎$OPT_{LP}$‎. بدیهی است که در این صورت، باید پذیرفت بردار جدید ممکن است امکان‌پذیر نباشد. در تحلیل یک الگوریتم تقریبی که بر پایه‌ی گرد کردن تصادفی طراحی شده، باید هم احتمال به دست آمدن برداری امکان‌پذیر بررسی شود و هم امید ریاضی مقدار تابع هزینه.</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<<<<<<< HEAD
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\پایان{فقرات}‎</p>
+=======
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎پایان{فقرات}</p>
+>>>>>>> 24c76bdf0ca4a0e7317e64137142e08c78757ad7
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p></body></html>
