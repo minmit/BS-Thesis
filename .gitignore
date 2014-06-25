@@ -1,3 +1,5 @@
+*.ptd
+*.synctex
 *.pdf
 *.aux
 *.glo
