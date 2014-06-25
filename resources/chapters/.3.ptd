@@ -1,6 +1,14 @@
-<!1,2014062507:12:11>
+
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
 </style></head><body>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p></body></html>
+
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\chapter{‎معرفی شبکه های مبتنی بر داده نام‌گذاری شده}</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در این فصل به معرفی شبکه‌های مبتنی بر داده نام‌گذاری شده می‌پردازیم که ازین به بعد به اختصار آن را ‎NDN(Named ‎Data ‎Networks)‎ می‌نامیم.  در ابتدا به بررسی ایرادات شبکه‌های مبتنی بر ‎IP‎ که امروزه به طور گسترده استفاده می‌شوند و در حقیقت زیرساخت شبکه‌های امروزی را تشکیل می‌دهند می‌پردازیم‏ و لزوم روی کار آمدن یک سیستم جدید را نشان می‌دهیم. در ادامه توضیحات مفصلی راجع به شبکه‌های ‎NDN‎ و چگونگی کارکرد آن‌ها داده می‌شود. در مرحله بعد‏، راجع به این‌که چگونه شبکه‌های ‎NDN‎ ایرادات شبکه‌های قبلی را مرتفع می‌کند و مزایای استفاده از آن بحث می‌شود. </p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎\section{‎شبکه‌های مبتنی بر ‎IP‎‎}‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎در‎‎‎ دنیای امروز‏، </p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
