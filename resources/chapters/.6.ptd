@@ -1,4 +1,4 @@
-<!1,2014062812:26:32>
+<!1,2014062813:13:40>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
@@ -123,7 +123,8 @@ p, li { white-space: pre-wrap; }
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">برای اطلاع از ترمیم یک پیوند غیرفعال، مسیریاب در بازه‌های طولانی‌تری با فرستادن بسته‌های درخواست سلام فعال شدن پیوند را بررسی می‌کند. این بازه‌ها طولانی انتخاب می‌شوند تا سربار زیادی برای شبکه نداشته باشند. در صورتی که یک پیوند فعال شود، مسیریاب ‎FIB‎ خود را به روز‌رسانی می‌کند و در صورتی که استفاده از این پیوند فعال‌شده مسیرهای بهتری را برایش امکان‌پذیر کرده باشد، پیغام‌های ‎DA‎ مربوطه را به همسایگانش ارسال می‌کند.</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
-<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎قسمت{مسئله‌ی شمارش بی‌انتها}</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎قسمت{مسئله‌ی شمارش بی‌انتها}‎‎‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\label{poison}‎</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">یکی از مشکلاتی که در مسیریابی‌های مبتنی بر بردار فاصله وجود دارد مسئله‌ی شمارش بی‌انتهاست که در بخش ‎\ref{distance vector}‎‌ به آن اشاره شد. برای مقابله با این مسئله در پروتکل پیشنهادی خود، روشی مشابه پروتکل ‎RIP‎‎ در پیش گرفته‌ایم. در این روش که سم معکوس\زیرنوشت‎{Poison Reverse}‎ نامیده می‌شود، اگر مسیریاب ‎«الف»‎ بهترین مسیر خود به مسیریاب ‎«ب»‎ را از طریق مسیریاب ‎«پ»‎ در همسایگی خود داشته باشد، برای جلوگیری از شمارش بی‌انتها، فاصله‌ی خود از مسیریاب ‎«ب»‎ را به مسیریاب ‎«پ»‎ بی‌نهایت اعلام خواهد کرد. به عبارت دیگر، یک مسیریاب، مسیری که از همسایه‌ی خود فراگرفته است، به خود او تبلیغ نخواهد کرد. </p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
